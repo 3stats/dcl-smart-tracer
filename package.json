@@ -1,6 +1,6 @@
 {
   "name": "@3stats/dcl-smart-tracer",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "description": "A free smart item for tracking users in Decentraland",
   "scripts": {
     "start": "dcl start",
